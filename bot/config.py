@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
+    BOT_TOKEN = "5285733863:AAHKWz69LGGe_YANcks4eUssj0f8b_NhwTw16543656bd166832ffcc341f59ea27372550846b"
+    APP_ID = "16543656bd166832ffcc341f59ea27372550846b"
+    API_HASH = "bd166832ffcc341f59ea27372550846b"
+    DATABASE_URL = "postgres://iikcopoqikuzjr:07bde4b4bcad9743e53f2b0264671760851d598f4853f825017672d91407c200@ec2-44-195-169-163.compute-1.amazonaws.com:5432/dah0q8863he2st"
     SUDO_USERS = "" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/beybladechattamil"
 
 
 class BotCommands:
